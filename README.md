@@ -4,19 +4,18 @@
 Web Application Development
 
 ### Assignment Date:  
-(Month Day, Year)
+(March 23, 2018)
 
 ### Student Name:  
-(First and Last Name)
+(Jasmine Farooq)
 
 ### Project Description:
-(In your own words, briefly describe the assignment.)
+(In this assignment, we accessed elements by id, tag name, and class to create a photo gallery application. )
 
 ### View Project:
-(Replace this statement with your Github Page URL that was created when you 
- published the project.)
+( https://jazzyf17.github.io/lesson6_javascript3/ )
 
 ### Lessons Learned in the Assignment:
-1. (Briefly describe a lesson/concept learned in this lesson.)
-2. (Briefly describe a lesson/concept learned in this lesson.)
-3. (Briefly describe a lesson/concept learned in this lesson.)
+1. (Each item in the DOM tree is a node that we can manipulate.)
+2. (The getElementByTagName returns an array of descendants with the given tag such as "div".)
+3. (The querySelectorAll returns an array of all elements that would be matched by the given CSS selector string.)
